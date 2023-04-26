@@ -4,7 +4,7 @@ function ImagePopup(props) {
   return (
     <div
       className={
-        props.card
+        props.card.link
           ? `popup popup_edit-image popup_opened`
           : `popup popup_edit-image`
       }
