@@ -1,5 +1,4 @@
 function ImagePopup(props) {
-  //console.log(props)
 
   return (
     <div
